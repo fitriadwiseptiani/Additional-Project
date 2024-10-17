@@ -13,7 +13,6 @@ public class LinkedTest<T> : ILinkedTest<T>
         if(string.IsNullOrEmpty(item)){
             throw new ArgumentNullException("Item cannot be empty");
         }
-        List<Item> items = new();
         items.Add(item);
     }
     public int Count(List<Item> items){
@@ -22,7 +21,9 @@ public class LinkedTest<T> : ILinkedTest<T>
     public bool IsReadOnly{
 
     }
-    public void Add(T? item);
+    public void Add(T? item){
+        
+    }
     public bool Contains(T? item);
     void Copy(T?[] array, int arrayIndex);
     bool Remove(T? item)
