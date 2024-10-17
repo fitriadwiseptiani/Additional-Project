@@ -1,0 +1,14 @@
+C:\Project\tambahan\CustomLinkedList\bin\Debug\net8.0\CustomLinkedList.exe
+c:\Project\tambahan\CustomLinkedList\bin\Debug\net8.0\CustomLinkedList.deps.json
+c:\Project\tambahan\CustomLinkedList\bin\Debug\net8.0\CustomLinkedList.runtimeconfig.json
+C:\Project\tambahan\CustomLinkedList\bin\Debug\net8.0\CustomLinkedList.dll
+C:\Project\tambahan\CustomLinkedList\bin\Debug\net8.0\CustomLinkedList.pdb
+C:\Project\tambahan\CustomLinkedList\obj\Debug\net8.0\CustomLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\tambahan\CustomLinkedList\obj\Debug\net8.0\CustomLinkedList.AssemblyInfoInputs.cache
+C:\Project\tambahan\CustomLinkedList\obj\Debug\net8.0\CustomLinkedList.AssemblyInfo.cs
+C:\Project\tambahan\CustomLinkedList\obj\Debug\net8.0\CustomLinkedList.csproj.CoreCompileInputs.cache
+C:\Project\tambahan\CustomLinkedList\obj\Debug\net8.0\CustomLinkedList.dll
+C:\Project\tambahan\CustomLinkedList\obj\Debug\net8.0\refint\CustomLinkedList.dll
+C:\Project\tambahan\CustomLinkedList\obj\Debug\net8.0\CustomLinkedList.pdb
+c:\Project\tambahan\CustomLinkedList\obj\Debug\net8.0\CustomLinkedList.genruntimeconfig.cache
+c:\Project\tambahan\CustomLinkedList\obj\Debug\net8.0\ref\CustomLinkedList.dll
