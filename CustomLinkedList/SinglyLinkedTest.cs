@@ -1,5 +1,5 @@
 namespace CustomLinkedList;
 
-public class SinglyLinkedTest<String> : LinkedTest<String>
+public class SinglyLinkedTest<T> : LinkedTest<T>
 {
 }

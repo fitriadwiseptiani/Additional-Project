@@ -1,12 +1,12 @@
 namespace CustomLinkedList;
 
-public class LinkedTest : ILinkedTest
+public class LinkedTest<T> : ILinkedTest<T>
 {
+    List<Item> items = new();
     public void AddToFront(T? item){
         if(string.IsNullOrEmpty(item)){
             throw new ArgumentNullException("Item cannot be empty");
         }
-        List<Item> items = new();
         items.Add(item);
     }
     public void AddToEnd(T? item){
