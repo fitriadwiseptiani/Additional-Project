@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Project\\tambahan\\FibonacciSeries\\FibonacciSeries.csproj": {}
+    "c:\\Project\\tambahan\\LinkedListApp\\LinkedListApp.csproj": {}
   },
   "projects": {
-    "C:\\Project\\tambahan\\FibonacciSeries\\FibonacciSeries.csproj": {
+    "c:\\Project\\tambahan\\LinkedListApp\\LinkedListApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Project\\tambahan\\FibonacciSeries\\FibonacciSeries.csproj",
-        "projectName": "FibonacciSeries",
-        "projectPath": "C:\\Project\\tambahan\\FibonacciSeries\\FibonacciSeries.csproj",
+        "projectUniqueName": "c:\\Project\\tambahan\\LinkedListApp\\LinkedListApp.csproj",
+        "projectName": "LinkedListApp",
+        "projectPath": "c:\\Project\\tambahan\\LinkedListApp\\LinkedListApp.csproj",
         "packagesPath": "C:\\Users\\SE-82\\.nuget\\packages\\",
-        "outputPath": "C:\\Project\\tambahan\\FibonacciSeries\\obj\\",
+        "outputPath": "c:\\Project\\tambahan\\LinkedListApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SE-82\\AppData\\Roaming\\NuGet\\NuGet.Config"

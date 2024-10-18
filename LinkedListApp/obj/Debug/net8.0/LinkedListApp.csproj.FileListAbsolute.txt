@@ -1,0 +1,15 @@
+C:\Project\tambahan\LinkedListApp\obj\Debug\net8.0\LinkedListApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\tambahan\LinkedListApp\obj\Debug\net8.0\LinkedListApp.AssemblyInfoInputs.cache
+C:\Project\tambahan\LinkedListApp\obj\Debug\net8.0\LinkedListApp.AssemblyInfo.cs
+C:\Project\tambahan\LinkedListApp\obj\Debug\net8.0\LinkedListApp.csproj.CoreCompileInputs.cache
+C:\Project\tambahan\LinkedListApp\obj\Debug\net8.0\LinkedListApp.sourcelink.json
+C:\Project\tambahan\LinkedListApp\bin\Debug\net8.0\LinkedListApp.exe
+c:\Project\tambahan\LinkedListApp\bin\Debug\net8.0\LinkedListApp.deps.json
+c:\Project\tambahan\LinkedListApp\bin\Debug\net8.0\LinkedListApp.runtimeconfig.json
+C:\Project\tambahan\LinkedListApp\bin\Debug\net8.0\LinkedListApp.dll
+C:\Project\tambahan\LinkedListApp\bin\Debug\net8.0\LinkedListApp.pdb
+C:\Project\tambahan\LinkedListApp\obj\Debug\net8.0\LinkedListApp.dll
+C:\Project\tambahan\LinkedListApp\obj\Debug\net8.0\refint\LinkedListApp.dll
+C:\Project\tambahan\LinkedListApp\obj\Debug\net8.0\LinkedListApp.pdb
+c:\Project\tambahan\LinkedListApp\obj\Debug\net8.0\LinkedListApp.genruntimeconfig.cache
+c:\Project\tambahan\LinkedListApp\obj\Debug\net8.0\ref\LinkedListApp.dll
