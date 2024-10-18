@@ -12,3 +12,4 @@ C:\Project\tambahan\CustomLinkedList\obj\Debug\net8.0\refint\CustomLinkedList.dl
 C:\Project\tambahan\CustomLinkedList\obj\Debug\net8.0\CustomLinkedList.pdb
 c:\Project\tambahan\CustomLinkedList\obj\Debug\net8.0\CustomLinkedList.genruntimeconfig.cache
 c:\Project\tambahan\CustomLinkedList\obj\Debug\net8.0\ref\CustomLinkedList.dll
+C:\Project\tambahan\CustomLinkedList\obj\Debug\net8.0\CustomLinkedList.sourcelink.json
