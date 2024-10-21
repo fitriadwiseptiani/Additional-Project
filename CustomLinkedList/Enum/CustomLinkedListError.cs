@@ -1,6 +1,9 @@
-namespace CustomLinkedList.Enum;
-
-public enum CustomLinkedListError
+namespace CustomLinkedList.Enum
 {
-    NoError
+    public enum CustomLinkedListError
+    {
+        NoError
+    }
 }
+
+

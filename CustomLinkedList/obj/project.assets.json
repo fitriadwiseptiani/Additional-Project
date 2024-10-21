@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\SE-82\\.nuget\\packages\\": {}
+    "C:\\Users\\Zeleama\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Project\\tambahan\\CustomLinkedList\\CustomLinkedList.csproj",
+      "projectUniqueName": "d:\\Formulatrix\\tugas tambahan\\project\\Additional-Project\\CustomLinkedList\\CustomLinkedList.csproj",
       "projectName": "CustomLinkedList",
-      "projectPath": "C:\\Project\\tambahan\\CustomLinkedList\\CustomLinkedList.csproj",
-      "packagesPath": "C:\\Users\\SE-82\\.nuget\\packages\\",
-      "outputPath": "C:\\Project\\tambahan\\CustomLinkedList\\obj\\",
+      "projectPath": "d:\\Formulatrix\\tugas tambahan\\project\\Additional-Project\\CustomLinkedList\\CustomLinkedList.csproj",
+      "packagesPath": "C:\\Users\\Zeleama\\.nuget\\packages\\",
+      "outputPath": "d:\\Formulatrix\\tugas tambahan\\project\\Additional-Project\\CustomLinkedList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\SE-82\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Zeleama\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

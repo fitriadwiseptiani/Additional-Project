@@ -3,5 +3,5 @@ namespace CustomLinkedList.App;
 
 public interface ICustomLinkedList<T>
 {
-    CustomLinkedListError InsertNewItem(T? item);
+    CustomLinkedListError ManageLinkedList(T? item);
 }

@@ -13,3 +13,11 @@ C:\Project\tambahan\CustomLinkedList\obj\Debug\net8.0\CustomLinkedList.pdb
 c:\Project\tambahan\CustomLinkedList\obj\Debug\net8.0\CustomLinkedList.genruntimeconfig.cache
 c:\Project\tambahan\CustomLinkedList\obj\Debug\net8.0\ref\CustomLinkedList.dll
 C:\Project\tambahan\CustomLinkedList\obj\Debug\net8.0\CustomLinkedList.sourcelink.json
+D:\Formulatrix\tugas tambahan\project\Additional-Project\CustomLinkedList\obj\Debug\net8.0\CustomLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Formulatrix\tugas tambahan\project\Additional-Project\CustomLinkedList\obj\Debug\net8.0\CustomLinkedList.AssemblyInfoInputs.cache
+D:\Formulatrix\tugas tambahan\project\Additional-Project\CustomLinkedList\obj\Debug\net8.0\CustomLinkedList.AssemblyInfo.cs
+D:\Formulatrix\tugas tambahan\project\Additional-Project\CustomLinkedList\obj\Debug\net8.0\CustomLinkedList.csproj.CoreCompileInputs.cache
+D:\Formulatrix\tugas tambahan\project\Additional-Project\CustomLinkedList\obj\Debug\net8.0\CustomLinkedList.sourcelink.json
+D:\Formulatrix\tugas tambahan\project\Additional-Project\CustomLinkedList\obj\Debug\net8.0\CustomLinkedList.dll
+D:\Formulatrix\tugas tambahan\project\Additional-Project\CustomLinkedList\obj\Debug\net8.0\refint\CustomLinkedList.dll
+D:\Formulatrix\tugas tambahan\project\Additional-Project\CustomLinkedList\obj\Debug\net8.0\CustomLinkedList.pdb

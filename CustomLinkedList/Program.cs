@@ -71,7 +71,7 @@ namespace CustomLinkedList{
 
             ICustomLinkedList<int> customLinkedList = new CustomLinkedListApp<int>(singlyList, linkedTest, ui, appUi);
             try{
-                var result = customLinkedList.InsertNewItem(int);
+                var result = customLinkedList.ManageLinkedList(default);
             }
             catch (Exception e)
             {
